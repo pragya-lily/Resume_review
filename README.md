@@ -15,13 +15,3 @@ The resume includes sections for contact information, education, skills, project
 ## Technologies Used
 
 - HTML5
-
-## Peer Review
-
-**Strengths**
-- Clear structure and readable content
-- Proper use of headings and lists
-
-**Improvements**
-- Add semantic HTML tags
-- Add CSS for styling in future versions
